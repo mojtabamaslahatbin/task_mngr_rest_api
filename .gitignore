@@ -1,0 +1,4 @@
+/constants
+/node_modules
+/requests
+/.env.local
